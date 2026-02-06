@@ -1,8 +1,14 @@
-# SIGCAD - Sistema de Gestión de Carga Académica y Docente
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=SIGCAD&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistema%20de%20Gesti%C3%B3n%20de%20Carga%20Acad%C3%A9mica&descSize=20&descAlignY=60" alt="SIGCAD Header" width="100%" />
 
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
-![Team](https://img.shields.io/badge/Team-NexaByte-blue)
-![Version](https://img.shields.io/badge/Version-1.0.0-green)
+  <br>
+
+  <img src="https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge&logo=fire" alt="Status" />
+  <img src="https://img.shields.io/badge/Team-NexaByte-blue?style=for-the-badge&logo=microsoftteams" alt="Team" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge&logo=semver" alt="Version" />
+</div>
+
+---
 
 ## 📖 Descripción del Proyecto
 
@@ -14,48 +20,48 @@ El objetivo principal es optimizar la administración académica y garantizar la
 
 ## 👥 Equipo: NexaByte
 
-[cite_start]Este proyecto es desarrollado por estudiantes de la Licenciatura en Ingeniería de Software y Sistemas Computacionales de la UNID Campus Campeche[cite: 1, 2].
+Este proyecto es desarrollado por estudiantes de la Licenciatura en Ingeniería de Software y Sistemas Computacionales de la UNID Campus Campeche.
 
-* [cite_start]**Jorge Andrés Faisal Sulub (Líder)** [cite: 7]
-* [cite_start]**Diego Manuel Pérez Estrella (Arquitecto de Software)** [cite: 8]
-* [cite_start]**Andrés Oswaldo Heredia Torres (Desarrollador)** [cite: 9]
-* [cite_start]**José Alberto Castillo Vieyra (Desarrollador)** [cite: 9]
-* [cite_start]**Luis Felipe Quintero Cervera (Desarrollador)** [cite: 9]
-* [cite_start]**Melvin Yuriel Gutiérrez Martinez (Tester)** [cite: 9]
-* [cite_start]**Abraham Kantun Cauich (Tester)** [cite: 9]
+* **Jorge Andrés Faisal Sulub (Líder)**
+* **Diego Manuel Pérez Estrella (Arquitecto de Software)**
+* **Andrés Oswaldo Heredia Torres (Desarrollador)**
+* **José Alberto Castillo Vieyra (Desarrollador)**
+* **Luis Felipe Quintero Cervera (Desarrollador)**
+* **Melvin Yuriel Gutiérrez Martinez (Tester)**
+* **Abraham Kantun Cauich (Tester)**
 
 ---
 
 ## 🛠️ Stack Tecnológico Preliminar
 
-[cite_start]La arquitectura del proyecto está basada en un enfoque **Full-Stack JavaScript** para unificar el desarrollo, utilizando una arquitectura desacoplada (Frontend y Backend separados) comunicada vía API RESTful[cite: 100, 119].
+La arquitectura del proyecto está basada en un enfoque **Full-Stack JavaScript** para unificar el desarrollo, utilizando una arquitectura desacoplada (Frontend y Backend separados) comunicada vía API RESTful.
 
 ### Frontend (Interfaz de Usuario)
 | Tecnología | Propósito | Justificación Breve |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | **React.js** | [cite_start]Construcción de SPA (Single Page Application) responsiva y basada en componentes[cite: 44]. |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | **Vite** | [cite_start]Bundler de última generación para recarga en caliente y optimización de build[cite: 46]. |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | **React.js** | Construcción de SPA (Single Page Application) responsiva y basada en componentes. |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | **Vite** | Bundler de última generación para recarga en caliente y optimización de build. |
 
 ### Backend (API & Lógica de Negocio)
 | Tecnología | Propósito | Justificación Breve |
 | :--- | :--- | :--- |
-| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | **Node.js** | [cite_start]Entorno de ejecución asíncrono y orientado a eventos[cite: 48]. |
-| ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | **Express.js** | [cite_start]Framework minimalista para la creación de la API RESTful[cite: 50]. |
-| ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) | **JSON** | [cite_start]Formato estándar de intercambio de datos ligero[cite: 58]. |
+| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | **Node.js** | Entorno de ejecución asíncrono y orientado a eventos. |
+| ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | **Express.js** | Framework minimalista para la creación de la API RESTful. |
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) | **JSON** | Formato estándar de intercambio de datos ligero. |
 
 ### Base de Datos
 | Tecnología | Propósito | Justificación Breve |
 | :--- | :--- | :--- |
-| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | **MariaDB** | [cite_start]RDBMS Open Source que garantiza integridad ACID y alto rendimiento[cite: 54]. |
-| ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) | **MySQL Workbench** | [cite_start]Herramienta GUI para modelado y administración de la BD[cite: 54]. |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) | **MariaDB** | RDBMS Open Source que garantiza integridad ACID y alto rendimiento. |
+| ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) | **MySQL Workbench** | Herramienta GUI para modelado y administración de la BD. |
 
 ### Infraestructura y Herramientas
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Control de Versiones** | [cite_start]**Git** y **GitHub** para CI/CD y gestión de código[cite: 60]. |
-| **Despliegue (PaaS)** | [cite_start]**Railway** para infraestructura cloud bajo demanda[cite: 56]. |
-| **Diseño y Prototipado** | [cite_start]**Miro** (Wireframes) y **Draw.io** (Diagramas UML/Arquitectura)[cite: 62, 64]. |
-| **IDE** | [cite_start]**Visual Studio Code**[cite: 42]. |
+| **Control de Versiones** | **Git** y **GitHub** para CI/CD y gestión de código. |
+| **Despliegue (PaaS)** | **Railway** para infraestructura cloud bajo demanda. |
+| **Diseño y Prototipado** | **Miro** (Wireframes) y **Draw.io** (Diagramas UML/Arquitectura). |
+| **IDE** | **Visual Studio Code**. |
 
 ---
 
@@ -64,8 +70,10 @@ El objetivo principal es optimizar la administración académica y garantizar la
 El sistema utiliza una arquitectura cliente-servidor donde:
 1.  **Frontend:** Consume datos mediante peticiones HTTP (Axios/Fetch).
 2.  **Backend:** Procesa la lógica de negocio y protege la base de datos en una red privada.
-3.  [cite_start]**Producción:** Desplegado en Railway con servicios desacoplados para escalabilidad vertical[cite: 112, 115].
+3.  **Producción:** Desplegado en Railway con servicios desacoplados para escalabilidad vertical.
 
 ---
 
-© 2026 NexaByte - Universidad Interamericana para el Desarrollo
+<div align="center">
+  © 2026 NexaByte - Universidad Interamericana para el Desarrollo
+</div>
