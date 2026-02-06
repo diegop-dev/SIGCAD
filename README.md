@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=SIGCAD&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistema%20de%20Gesti%C3%B3n%20de%20Carga%20Acad%C3%A9mica&descSize=20&descAlignY=60" alt="SIGCAD Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00d9ff&height=280&section=header&text=SIGCAD&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistema%20de%20Gesti%C3%B3n%20de%20Carga%20Acad%C3%A9mica&descSize=20&descAlignY=60" alt="SIGCAD Header" width="100%" />
 
   <br>
 
